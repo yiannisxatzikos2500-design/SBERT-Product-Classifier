@@ -1,0 +1,21 @@
+{
+  "sbert_model_name": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "classes": [
+    "Books",
+    "Business Consulting",
+    "Computers & Accessories",
+    "Education & Training",
+    "Electronics",
+    "Financial Services",
+    "Healthcare / Psychological Services",
+    "Home & Kitchen",
+    "Home / Repair / Cleaning Services",
+    "Household Products",
+    "IT / Software / Cloud",
+    "Legal Services",
+    "Office Products",
+    "Other Goods",
+    "Security Services",
+    "Travel & Hospitality"
+  ]
+}

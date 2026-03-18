@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+wordcloud
+streamlit
+accelerate
+torch
+transformers
+sentence-transformers
+datasets
+setfit
